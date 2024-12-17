@@ -1,0 +1,5 @@
+Imaginemos una aplicación que gestiona informes y donde tenemos una clase que actualmente
+tiene dos responsabilidades:
+
+1- Generar el contenido del informe
+2- Enviarlo por correo electrónico.

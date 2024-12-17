@@ -1,0 +1,12 @@
+Para explicar el OCP seguiremos con la linea del ejemplo anterior pero con la diferencia de que ahora
+imaginaremos una aplicación que gestiona informes y donde tenemos una clase que actualmente
+tiene 4 responsabilidades:
+
+1- Generar el contenido del informe en PDF
+2- Generar el contendido del informe en Excel
+3- Enviarlo por correo electrónico.
+4- Enviarlo por correo ordinario
+
+A continuación veremos las diferencias entre aplicar o no OCP.
+
+Nota: En ambos casos, aplicamos por defecto el SRP ya que lo hemos explicado anteriormente
